@@ -17,7 +17,7 @@ This folder sets up a personal AI assistant in Claude Code.
    ```bash
    cd assistant-setup && claude
    ```
-3. Claude will begin the setup automatically — no prompt needed
+3. Once Claude is running, just type `hi` — Claude will take it from there
 
 The setup takes about 15–20 minutes. Claude will ask you questions about yourself, your goals, and how you work — then create a set of files that give it context in every future session.
 
