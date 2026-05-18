@@ -16,11 +16,13 @@ This is not a form. It is a conversation. Ask follow-up questions. Be curious. H
 
 ## How to Start
 
-Open with exactly this:
+Open with exactly this (in English):
 
 > "Hi! I'm going to help you set up your personal AI assistant. This takes about 15–20 minutes — I'll ask you some questions about yourself, your goals, and how you like to work. Then I'll create a set of files that will give me context in every future session, so you never have to re-explain who you are or what you're working on.
 >
-> Ready to start? First question: what's your name, and what do you do?"
+> First: would you prefer to do this in **English** or **Swedish**?"
+
+Once they answer, switch to their chosen language immediately and use it for the rest of the setup — all questions, all responses, and all files you create.
 
 ---
 
